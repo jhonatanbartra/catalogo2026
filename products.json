@@ -78,11 +78,11 @@
   },
   {
     "id": 4,
-    "name": "Lagartija",
-    "price": 850,
-    "oldPrice": 900,
+    "name": "Vehi",
+    "price": 558,
+    "oldPrice": 669,
     "desc": "Luces led",
-    "img": "https://raw.githubusercontent.com/jhonatanbartra/catalogo2026/main/products/4-lagartija.webp",
+    "img": "https://raw.githubusercontent.com/jhonatanbartra/catalogo2026/main/products/4-vehi.png",
     "size": "—",
     "material": "—",
     "motor": "—",
@@ -91,15 +91,11 @@
     "use": "—",
     "colorOptions": [
       [
-        "Amarillo",
-        "#ffff00"
-      ],
-      [
-        "Gris",
-        "#64748b"
+        "Negro",
+        "#111827"
       ]
     ],
-    "stock": 5,
+    "stock": 6,
     "includes": "—"
   }
 ]
