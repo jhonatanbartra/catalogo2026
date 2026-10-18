@@ -97,5 +97,27 @@
     ],
     "stock": 6,
     "includes": "—"
+  },
+  {
+    "id": 5,
+    "name": "Hhh",
+    "price": 0,
+    "oldPrice": 0,
+    "desc": "",
+    "img": "https://raw.githubusercontent.com/jhonatanbartra/catalogo2026/main/products/5-hhh.png",
+    "size": "—",
+    "material": "—",
+    "motor": "—",
+    "speed": "—",
+    "battery": "—",
+    "use": "—",
+    "colorOptions": [
+      [
+        "Negro",
+        "#111827"
+      ]
+    ],
+    "stock": 0,
+    "includes": "—"
   }
 ]
